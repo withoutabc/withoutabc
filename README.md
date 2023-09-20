@@ -6,19 +6,13 @@
 
 - 📖 My Blog: https://withoutabc.github.io/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=withoutabc)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=withoutabc&show_icons=true&theme=tokyonight" /> </div>
 
-<!--
-**withoutabc/withoutabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withoutabc&exclude_repo=withoutabc.github.io" /> </div>
 
-Here are some ideas to get you started:
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=withoutabc" /> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: fw55ffww@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=withoutabc&theme=xcode" /> </div>
+
+<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=藏巧于拙，用晦而明&center=true&size=27"> </a> </div>
+
